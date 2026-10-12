@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🚀 InternNova Official Homepage Redesign (v2.0)
 
 > **Mandatory Web Development Internship Project Task**  
@@ -115,3 +116,6 @@ python -m http.server 3000
 **Raj Kumar**  
 Web Development Intern @ InternNova  
 Project: Real-World Mandatory Task - InternNova Official Homepage Redesign
+=======
+# internnova-homepage-redesign
+>>>>>>> 7a85fb69fb7f2bd0aca8893516adfd0d3a2e9241
