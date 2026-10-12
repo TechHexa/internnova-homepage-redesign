@@ -272,10 +272,21 @@ img, svg {
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.35);
 }
 
+
+
+
 [data-theme="light"] .header.scrolled {
   background: rgba(255, 255, 255, 0.94);
   box-shadow: 0 4px 20px rgba(0, 0, 0, 0.06);
+  
 }
+
+[data-theme="light"] .step-number-bubble {
+ color: black ;
+  
+}
+
+
 
 .nav-container {
   display: flex;
@@ -836,13 +847,13 @@ img, svg {
 }
 
 .badge-top-right {
-  top: -20px;
-  right: -20px;
+  top: -100px;
+  right: 0px;
 }
 
 .badge-bottom-left {
-  bottom: -20px;
-  left: -20px;
+  bottom: -100px;
+  left: 0px;
   animation-delay: -3s;
 }
 
